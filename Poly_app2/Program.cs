@@ -11,7 +11,7 @@ namespace Poly_app2
         static void Main(string[] args)
         {
             // afficher un message dans la fenetre console
-            Console.Write("HELLO WORLD6346");
+            Console.Write("HELLO WORLD");
 
             // declaration d'une variable a de type entier et l'initialiser a 5
             int a = 5;
