@@ -10,7 +10,7 @@ namespace Poly_app2
     {
         static void Main(string[] args)
         {
-            Console.Write("HELLO WORLD6346");
+            Console.Write("HELLO WORLD");
 
             int a = 5;
 
