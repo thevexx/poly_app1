@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\bin\Debug\Poly_App1.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\bin\Debug\Poly_App1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\bin\Debug\Poly_App1.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\obj\Debug\Poly_App1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\obj\Debug\Poly_App1.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\obj\Debug\Poly_App1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\obj\Debug\Poly_App1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\obj\Debug\Poly_App1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Poly_App1\Poly_App1\obj\Debug\Poly_App1.pdb
